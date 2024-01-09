@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+}
+/* Cambiamos el color mediante el selector de etiquetas */
+h1 {
+  color: #fff;
+  font-size: 30px;
+}
+
+p {
+  color: blue;
+  font-size: 26px;
+}
+
+/* Cambiamos el color del párrafo mwdiante el selector id */
+#Selector_id {
+  color: yellow;
+  font-size: 24px;
+}
+
+.Selector_clase {
+  color: blue;
+  font-size: 22px;
+}
